@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Justin Ra",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://rajustin.github.io/images/molly.png",
+    "email": "rajustin@hawaii.edu",
+    "phone": "808-799-4756",
+    "website": "https://rajustin.github.io",
+    "summary": "I am studying for a B.B.A. in Managment Information Systems at the University of Hawaii. I expect to graduate in Spring, 2021.",
     "location": {
-      "address": "",
+      "address": "665 Halekauwila St. APT.1211",
       "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
@@ -17,41 +17,34 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "rajustin",
+        "url": "http://github.com/rajustin"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "rajustin",
+        "url": "https://www.linkedin.com/in/justin-ra-65a792175/"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "justinrara",
+        "url": "https://www.instagram.com/justinraaa/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Movies",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "hiking",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "reading",
       "keywords": [
       ]
     }
